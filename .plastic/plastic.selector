@@ -1,0 +1,3 @@
+rep "zuko_test@Yldrmcat68@cloud"
+  path "/"
+    smartbranch "/main"
